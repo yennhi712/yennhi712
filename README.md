@@ -6,7 +6,7 @@
 </em></p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-- 🎓 **Currently:** 4th-year **Software Engineering Student @ HUFLIT**.
+- 🎓 **Currently:** 4th-year **Software Engineering Student @HUFLIT**.
 - 🎯 **Current Focus:** Developing my skills as a **Frontend Developer Intern** and building practical web projects.
 - 📚 **Learning Next:** Improving **React**, **JavaScript**, and exploring modern **Frontend technologies**.
 - 🤝 **Collaborations:** Open to learning, sharing knowledge, and collaborating on **Web Development** projects.

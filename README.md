@@ -81,8 +81,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yennhi712&theme=react-dark&hide_border=true&area=true" />
 </div>
 
----
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Always learning, always building, and always happy to conn</b></em>
+<a href="#"><img alt="yennhi712's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=yennhi712&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="yennhi712's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=yennhi712&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
----
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
+or skill level.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
